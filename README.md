@@ -125,8 +125,6 @@ Instalar [node.js](https://nodejs.org/en) si no esta instalado.
 | david@ikasle.egibide.org | David |Moreno  | 12345  | Activo  |
 | anartz@ikasle.egibide.org | Anartz | Pato | 12345  | Activo  |
 | markel@ikasle.egibide.org | Markel | Guapo  | 12345  | Activo |
-| cliente5@example.com | Pedro | Sanchez  | contrasena5  | Inactivo |
-
 
 
 
